@@ -1,31 +1,43 @@
-# Stargate VPN
+# Stargate App Builder Pro
 
-A lightweight Windows VPN application built with Python.
+A professional Windows application builder written in Python.
 
-## Features
+## 🚀 Features
 
-- Cloudflare WARP support
-- Simple graphical interface
-- One-click Connect / Disconnect
-- Windows installer
+- Build Python applications into EXE
+- Select custom application icon (.ico)
+- Automatic PyInstaller integration
+- Inno Setup installer support
+- Simple and user-friendly interface
+- Fast and reliable build process
 
-## Folder Structure
+## 📦 Requirements
 
-```
-source/      Python source code
-installer/   Inno Setup script
-Output/      Installer output
-dist/        Build output
-```
+- Python 3.12 or later
+- PyInstaller
+- Inno Setup
 
-## Version
+## 🛠️ Built With
 
-v1.0
+- Python
+- Tkinter
+- PyInstaller
+- Inno Setup
 
-## Author
+## 📸 Screenshot
 
-Ahmed
+(Add application screenshot here)
 
-## Project
+## 📥 Download
 
-Stargate Project
+Download the latest version from the **Releases** section.
+
+## 📄 License
+
+MIT License
+
+---
+
+**Stargate Project**
+
+Developed by Ahmed Tofick.
